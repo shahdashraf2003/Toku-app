@@ -8,7 +8,7 @@ class PhrasesPage extends StatelessWidget {
     const ItemModel(
         jaName: 'rai masu ka',
         enName: 'Are you coming',
-        sound: 'sounds/phrases/are you coming.wav'),
+        sound: 'sounds/phrases/are_you_coming.wav'),
     const ItemModel(
         jaName: 'koudoku suru koto wa wasure nai de kudasai',
         enName: 'Dont forget to subscribe',
